@@ -10,4 +10,5 @@ French, and Chinese contexts, capturing cross-cultural with the help of
 Large Language Models (LLMs), frame semantic transformers, and OCR
 tools. Our frame extraction pipeline outputs interpretations from meme
 contents in any chosen language. Then a semantic similarity-based clustering
-is applied to group related memes to deepen
+is applied to group related memes to deepenour understanding of
+the relationship between the meme instance.
